@@ -1,6 +1,6 @@
 ﻿#   ProcessResult:
       type: object
-      description: c-map処理結果用モデル
+      description: 外部IF処理結果用モデル
       properties:
         returnCode:
           type: string
